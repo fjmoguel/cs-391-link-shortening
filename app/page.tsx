@@ -11,7 +11,7 @@ export default function HomePage() {
         justifyContent: "flex-start",
         padding: "2rem",
         paddingTop: "2rem",
-        backgroundColor: "#f3f6f9",
+        backgroundColor: "#f3f3f3",
       }}
     >
       <NewShorteningForm />
